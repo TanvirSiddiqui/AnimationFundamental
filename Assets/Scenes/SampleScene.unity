@@ -594,8 +594,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 3893294199061949517}
-  offSet: {x: 0, y: 0, z: 0}
-  time: 10
+  distance: 5
+  height: 2
+  rotationOffset: 10
+  smoothSpeed: 8
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
